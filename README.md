@@ -1,2 +1,2 @@
-# articles
-API para CRUD de articulos
+# Articulos
+API con node para la gestión de articulos
